@@ -1,0 +1,13 @@
+# tictactoe
+
+Simple implementation of the traditional Tic Tac Toe (XO) game in
+MATLAB with a graphical user interface
+
+See https://nl.mathworks.com/matlabcentral/fileexchange/36696-tic-tac-toe-xo-game
+for the original implementation. This version of the code only has some
+reorganization of the functions in separate files, some reformatting of the
+whitespace around the code, and some additional help sections in the code. All
+credits go to Husam Bilal for implementing and sharing this.
+
+Copyright (c) 2012, Husam
+

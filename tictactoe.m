@@ -17,7 +17,7 @@ function varargout = tictactoe(varargin)
 % CHECKBOARD is called to see whether the player or computer won.
 %
 % See https://nl.mathworks.com/matlabcentral/fileexchange/36696-tic-tac-toe-xo-game
-% for the original implementation. This version of teh code only has some
+% for the original implementation. This version of the code only has some
 % reorganization of the functions in separate files, some reformatting of the
 % whitespace around the code, and some additional help sections in the code. All
 % credits go to Husam Bilal for implementing and sharing this.
